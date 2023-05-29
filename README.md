@@ -57,7 +57,7 @@ Install latest version of npm
 
 1. Clone the project
    ```sh
-   git clone https://github.com/crookedfingerworks/roseflix.git
+   git clone https://github.com/thekunaldahiya/Netflix-clone.git
    ```
 2. Go to project directory and Install NPM packages
    ```sh
@@ -150,6 +150,6 @@ Install latest version of npm
 
 ## Contact
 
-crooked.finger.works@gmail.com
+kunaldahiya1539@gmail.com
 
-Project Link: [https://github.com/crookedfingerworks/roseflix](https://github.com/crookedfingerworks/roseflix)
+Project Link: [https://github.com/thekunaldahiya/Netflix-clone](https://github.com/thekunaldahiya/Netflix-clone)
